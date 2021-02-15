@@ -1,0 +1,110 @@
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 10:18:10 Your Reminder is: ECE Class
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 10:19:00 Your Reminder is: ECE Class
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 10:20:00 Your Reminder is: ECE Class
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 10:21:00 Your Reminder is: ECE Class
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 10:22:00 Your Reminder is: ECE Class
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 10:24:00 Your Reminder is: ECE Class
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 10:30:00 Your Reminder is: ECE Class
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 10:30:40 Your Reminder is: ECE Class
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 10:31:40 Your Reminder is: ECE Class
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 10:32:40 Your Reminder is: ECE Class
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 10:33:40 Your Reminder is: ECE Class
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 10:42:00 Your Reminder is: ECE Class
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 10:42:00 Your Reminder is: ECE Class
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: AB:CD:00 Your Reminder is: labla
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 4:30:00 Your Reminder is: ECE practical
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 4:30:00 Your Reminder is: ECE practical
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 4:30:00 Your Reminder is: ECE practical
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 4:30:00 Your Reminder is: ECE practical
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 4:30:00 Your Reminder is: ECE practical
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 4:30:00 Your Reminder is: ECE practical
+
+----------------
+Thu, Jan 28 2021
+----------------
+Time: 4:30:00 Your Reminder is: none
+
+----------------
+Tue, Feb 02 2021
+----------------
+Time: 7:30:00 Your Reminder is: completing my ECE practical
