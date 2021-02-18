@@ -30,7 +30,7 @@ def takecommand_sleep():
     r = sr.Recognizer()
     with sr.Microphone() as source:
         r.pause_threshold = 1
-        audio = r.listen(source, timeout=5, phrase_time_limit=100000000000000000)
+        audio = r.listen(source, timeout=5, phrase_time_limit=1000000000000000000)
     try:
         query = r.recognize_google(audio, language='en-in')
     except Exception as e:
