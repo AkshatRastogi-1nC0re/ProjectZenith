@@ -5,8 +5,8 @@ import email
 import traceback
 import re
 ORG_EMAIL = "@gmail.com"
-FROM_EMAIL = "project.zenith11" + ORG_EMAIL
-FROM_PWD = "testing@123"
+FROM_EMAIL = "" + ORG_EMAIL
+FROM_PWD = ""
 SMTP_SERVER = "imap.gmail.com"
 SMTP_PORT = 993
 
