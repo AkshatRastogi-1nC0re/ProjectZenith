@@ -1,7 +1,7 @@
 from instapy import InstaPy
 
-insta_username = 'sassquadron_1'
-insta_password = 'testing@123!'
+insta_username = ''
+insta_password = ''
 
 # if you want to run this script on a server,
 # simply add nogui=True to the InstaPy() constructor
